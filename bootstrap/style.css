@@ -1,0 +1,16 @@
+@media screen and (max-width: 412px){
+    .content {
+        display: flex;
+        flex-flow: column nowrap;
+    }
+
+    .table {
+        border: 1px solid black;
+        max-width: 500px;
+        order: -1;
+    }
+}
+
+a {
+    text-decoration: none;
+}
